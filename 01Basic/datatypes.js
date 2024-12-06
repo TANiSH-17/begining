@@ -1,0 +1,5 @@
+/*
+ 
+typeof null is object but of undefined is undefined.
+
+*/
